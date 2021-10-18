@@ -1,0 +1,18 @@
+body{
+    font-family: 
+    'M+ C Type-2 (basic latin) Regular',
+    'M+ Type-2 (general-j) Regular', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 20vw;
+    text-align: center;
+    margin: 0px;
+}
+
+h2{
+    font-size: 64px;
+    text-align: right;
+    margin: 0px 64px;
+}
